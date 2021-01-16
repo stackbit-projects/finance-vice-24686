@@ -36,8 +36,8 @@
                 "style": "link"
             },
             {
-                "label": "Derivatives",
-                "url": "derivatives",
+                "label": "Personal Finance",
+                "url": "personal-finance",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -45,8 +45,8 @@
                 "type": "action"
             },
             {
-                "label": "Personal Finance",
-                "url": "personal-finance",
+                "label": "Derivatives",
+                "url": "derivatives",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
