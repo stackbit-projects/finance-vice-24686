@@ -31,11 +31,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            },
-            {
                 "label": "Personal Finance",
                 "url": "personal-finance",
                 "style": "link",
@@ -61,6 +56,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
             }
         ],
         "has_social": true,
