@@ -46,7 +46,7 @@
             },
             {
                 "label": "Personal Finance",
-                "url": "lorem-ipsum",
+                "url": "personal-finance",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
