@@ -1,6 +1,6 @@
 ---
 title: Disclaimer
-subtitle: lorem-ipsum
+subtitle: The legal stuff you should know about using Finvolition
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 template: page
