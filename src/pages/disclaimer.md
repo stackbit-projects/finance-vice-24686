@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Disclaimers
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
