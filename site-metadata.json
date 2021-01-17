@@ -73,7 +73,7 @@
             },
             {
                 "label": "Donate",
-                "url": "lorem-ipsum",
+                "url": "donate",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
