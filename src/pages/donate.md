@@ -1,5 +1,5 @@
 ---
-title: Disclaimer
+title: Donate
 subtitle: The legal stuff you should know about using Finvolition
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
