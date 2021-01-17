@@ -1,6 +1,6 @@
 ---
 title: Donate
-subtitle: The legal stuff you should know about using Finvolition
+subtitle: "Did you learn something?\_ Tips are greatly appreciated."
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
 template: page
