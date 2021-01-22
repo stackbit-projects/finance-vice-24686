@@ -4,7 +4,7 @@ subtitle: The Basics
 date: '2021-01-22'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: Basic Concept
 canonical_url: lorem-ipsum
 template: post
 ---
