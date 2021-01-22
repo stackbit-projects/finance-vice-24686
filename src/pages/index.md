@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Let's Talk About Money
     content: |
-      Let's get your money working for you.
+      This is NOT a live site.  Only being used for testing purposes.
   - section_id: about
     type: section_content
     title: About
