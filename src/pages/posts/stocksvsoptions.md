@@ -1,6 +1,6 @@
 ---
 title: 'Stocks vs. Options: The Basics'
-subtitle: lorem-ipsum
+subtitle: The Basics
 date: '2021-01-22'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
